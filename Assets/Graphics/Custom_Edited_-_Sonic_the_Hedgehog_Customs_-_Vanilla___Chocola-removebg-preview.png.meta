@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: e58572421329a1a4597f7d550a501998
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1150099831433943406
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_0
+  - first:
+      213: -3443837215610686584
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_1
+  - first:
+      213: -8896282720788440723
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_2
+  - first:
+      213: 1493199940600261413
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_3
+  - first:
+      213: 1076198734222546462
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_4
+  - first:
+      213: -7234640227392895992
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_5
+  - first:
+      213: -3776293683159257765
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_6
+  - first:
+      213: -1456291485295096993
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_7
+  - first:
+      213: 7305200154273368721
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_8
+  - first:
+      213: 7824176386526935567
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_9
+  - first:
+      213: -3206293515690666126
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_10
+  - first:
+      213: 4117966653744848817
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_11
+  - first:
+      213: 7525883064801930773
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_12
+  - first:
+      213: 3923797542020807422
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_13
+  - first:
+      213: 7394971568178291784
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_14
+  - first:
+      213: -2400362154992113370
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_15
+  - first:
+      213: -6712745783491470288
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_16
+  - first:
+      213: -4593804746541233341
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_17
+  - first:
+      213: 599395186975049280
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_18
+  - first:
+      213: 2774418664422895441
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_19
+  - first:
+      213: -8941195439842491486
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_20
+  - first:
+      213: -6763312755667660851
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_21
+  - first:
+      213: 4490566400870207403
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_22
+  - first:
+      213: 5929696971213494793
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_23
+  - first:
+      213: -7958875205374148755
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_24
+  - first:
+      213: 919531111411436647
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_25
+  - first:
+      213: 9010806373659187322
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_26
+  - first:
+      213: 6061162908718863147
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_27
+  - first:
+      213: 8830594654265874549
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_28
+  - first:
+      213: 4784413499021411431
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_29
+  - first:
+      213: 5851435437602965380
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_30
+  - first:
+      213: -2400736992425156464
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_31
+  - first:
+      213: -8497515377959880899
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_32
+  - first:
+      213: 3410665131456674279
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_33
+  - first:
+      213: -5271647816878200426
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_34
+  - first:
+      213: 2915487591891203309
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_35
+  - first:
+      213: -1748822813773264942
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_36
+  - first:
+      213: 7388737375839907902
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_37
+  - first:
+      213: -1113418198821735980
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_38
+  - first:
+      213: 8322669282929162662
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_39
+  - first:
+      213: -2631525630510783329
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_40
+  - first:
+      213: -1908897471651143951
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_41
+  - first:
+      213: 2641128127301715137
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_42
+  - first:
+      213: 295344994813946248
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_43
+  - first:
+      213: -4032413596451983442
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_44
+  - first:
+      213: -3264487186026605069
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_45
+  - first:
+      213: -1938216841407291897
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_46
+  - first:
+      213: -5874209150807204605
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_47
+  - first:
+      213: 7798963963634028357
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_48
+  - first:
+      213: -8086952419382529542
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_49
+  - first:
+      213: 8501053019176044453
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_50
+  - first:
+      213: 3762949938592035487
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_51
+  - first:
+      213: -8561074355690401617
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_52
+  - first:
+      213: -7956144827074462411
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_53
+  - first:
+      213: 8290284778769776374
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_54
+  - first:
+      213: 7976427084661544699
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_55
+  - first:
+      213: 2693071554168721471
+    second: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_56
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 345
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1276a1a9162e840bb5efd8d246c3a7
+      internalID: 1150099831433943406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 345
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c94fec52f0858e44bd4b8efae42db1b
+      internalID: -3443837215610686584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 346
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff440344a65150a4fb17bee509125814
+      internalID: -8896282720788440723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 346
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d07c65687bafe94d93f07584e4c58a5
+      internalID: 1493199940600261413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 346
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811a5c6590265564ea28116b38610d7e
+      internalID: 1076198734222546462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 345
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b995b99351b953a49ba576c96f8d1b97
+      internalID: -7234640227392895992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 347
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f013e421341a86d4fa7983bba3b64d44
+      internalID: -3776293683159257765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 346
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528ffd6c19a3aba4db732888532d9eec
+      internalID: -1456291485295096993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 347
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d03628f5f240274d970a86c1f7cc082
+      internalID: 7305200154273368721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 381
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2678caf13be78cd45b16a238af34e436
+      internalID: 7824176386526935567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 336
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671e5c1a66dab11409afa3c079265273
+      internalID: -3206293515690666126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 381
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d2c2ec9299c1d4dbc603f1357fa0fd
+      internalID: 4117966653744848817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 366
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8457a2122e6249d4582975ad6ef8983b
+      internalID: 7525883064801930773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 367
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5e40fbc9d996f4697067b3e52c0f4c
+      internalID: 3923797542020807422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 351
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b149869c21e404c8311c9824b1f388
+      internalID: 7394971568178291784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 351
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682db4fa9293d424084fe5962d2b4475
+      internalID: -2400362154992113370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 305
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f487a3c3b3dce24785ba85aab7004ea
+      internalID: -6712745783491470288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 290
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e414ab3a9a7ad0040860910b88d3e055
+      internalID: -4593804746541233341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 336
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e135d1976a8ecf547a48da5fc65902b6
+      internalID: 599395186975049280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 336
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05c7bb15f107414a8827cb71e2c26b1
+      internalID: 2774418664422895441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 289
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b0ff268acb37f44b22b9a0cf270e38
+      internalID: -8941195439842491486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 290
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518a89415613b4d419183fa2396ee465
+      internalID: -6763312755667660851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 290
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f4bc4e36a74dc4f8014d827dbea0e5
+      internalID: 4490566400870207403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 290
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944bc2d08c0bbf54e83ff87769a08f38
+      internalID: 5929696971213494793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 290
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e565865ca01cf094ba997103bf346572
+      internalID: -7958875205374148755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 289
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f814108df9c45d045ad9f8fc0932ef80
+      internalID: 919531111411436647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 246
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d9dc15f924cfb4b938a4a18bb32485
+      internalID: 9010806373659187322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 309
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89586dac77f1fc645877e3761b8ab569
+      internalID: 6061162908718863147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 309
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81e8f91b620b8b40ac170773022a564
+      internalID: 8830594654265874549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 231
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e9af27d028b8e48a5f9f285f15afbd
+      internalID: 4784413499021411431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 231
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14c6b295fa51a24785c56dac5917f12
+      internalID: 5851435437602965380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 231
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b00dd8db3494648bd34b9e68e6e33b
+      internalID: -2400736992425156464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 231
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503d83066d0bd584a8f9c0ebca3dafa4
+      internalID: -8497515377959880899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 231
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa46afda32b7e644cb1c3f819c98b6aa
+      internalID: 3410665131456674279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 231
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d665ec43dc57f5b48878925396f0e8f9
+      internalID: -5271647816878200426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 231
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b254f88c92bb0499cb7e0faa92c916
+      internalID: 2915487591891203309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 231
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f161cc74c99754d9170f2bacc02b26
+      internalID: -1748822813773264942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 251
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574e60e9505909c48b8ea4fb56530b16
+      internalID: 7388737375839907902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 172
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6339393d2f20ab14c8b849615b174ab6
+      internalID: -1113418198821735980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 173
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5713145362dbdc14c8f44611e51bf3f6
+      internalID: 8322669282929162662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 172
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae4601b2c7b4474abfae29cdc0aee27
+      internalID: -2631525630510783329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 172
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a39dd76d3c7d5408b41de2975fc48b
+      internalID: -1908897471651143951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 172
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e470481d9922049ba968c980621e91
+      internalID: 2641128127301715137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 171
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdfc1f697435364e8983f860d017733
+      internalID: 295344994813946248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 172
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5124181dcced2bc4f95097fdeceb30ad
+      internalID: -4032413596451983442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 172
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d358647b7b75dc4697b814df9658534
+      internalID: -3264487186026605069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 172
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56b52b63379c6c4da1ae46f7b47871c
+      internalID: -1938216841407291897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 111
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433d769e6c7214845ad026e049442704
+      internalID: -5874209150807204605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 113
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94146419941038d4187faa72e6881d37
+      internalID: 7798963963634028357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 113
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff1cb1ef8ec8f54ba0ee62c67dd86a4
+      internalID: -8086952419382529542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 113
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21f23f11f3af8540b3324a3fadb7b44
+      internalID: 8501053019176044453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 113
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d125fff8f54181b47a1744c7dc08b5b5
+      internalID: 3762949938592035487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 114
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be50f07a6446eb47be796c188f9c047
+      internalID: -8561074355690401617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 114
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b717643c4c77014d9fd82b47032bb13
+      internalID: -7956144827074462411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 114
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecc5d545a171c34aad21df72b6eb827
+      internalID: 8290284778769776374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 115
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0730031c6aae448820bf48a43c4e08
+      internalID: 7976427084661544699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Sonic_the_Hedgehog_Customs_-_Vanilla___Chocola-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 115
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5214ea6c7dbf6084a9b23cc28a072dcb
+      internalID: 2693071554168721471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cd3a3af5eb61d894ebcccccfd0742cb8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
