@@ -55,7 +55,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\character.cs" />
+     <Compile Include="Assets\i.cs" />
+     <Compile Include="Assets\Scenes\l.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>E:/Game/Final Test/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
